@@ -1,0 +1,10 @@
+
+    <resources>
+      <string-array name="planets_title">
+            <item >Mercury</item>
+            <item >Venus</item>
+            <item >Earth</item>
+            <item >Mars</item>
+        </string-array>
+        
+    </resources>

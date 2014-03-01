@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TextView
+		xmlns:android="http://schemas.android.com/apk/res/android"
+		android:background="@android:drawable/dark_header"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:shadowColor="@android:color/darker_gray"
+		android:gravity="start"
+		android:scrollbars="none"
+		android:paddingLeft="16dp"
+		android:paddingRight="16dp"
+		android:paddingTop="5dp"
+		android:textColor="#ff959595"
+		android:textSize="10sp"
+		android:clickable="false"
+		android:textStyle="bold"
+		style="?android:attr/listSeparatorTextViewStyle" android:id="@+id/header_item"/>
